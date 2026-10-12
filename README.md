@@ -174,16 +174,80 @@ The original project includes walkthroughs of its main workflows:
 | Paper Search | [Watch on YouTube](https://youtu.be/dFv1KFq0kfg) |
 | Admin Dashboard | [Watch on YouTube](https://youtu.be/PHjPU4BYS1E) |
 
-## My Contributions
 
-**To complete before public portfolio use:** Clearly describe the features you personally designed, implemented, tested, or maintained. This was a collaborative project; avoid attributing the team's entire codebase to one developer.
+## My Contributions | Full-Stack Software Developer
 
-Suggested format:
+Contributed extensively to the design, development, and integration of **Brainiacs Atlas**, a full-stack neuroscience research platform developed as part of a collaborative software engineering project.
 
-- **Feature / subsystem:** What you owned and the technical problem it solved.
-- **Implementation:** Technologies, algorithms, design decisions, and integration points you worked on.
-- **Verification:** How you tested, debugged, or validated the implementation.
-- **Collaboration:** How you coordinated changes, reviews, and integration with teammates.
+My responsibilities spanned **frontend development, backend engineering, database architecture, data transformation, scientific information retrieval, computer vision, and application integration**. I contributed to the majority of the platform's core functionality, working alongside team members responsible for dedicated chat and security features.
+
+### Key Engineering Contributions
+
+- **Full-Stack Application Development:** Designed, developed, and integrated application functionality using **React, Next.js, TypeScript, Python, and Flask**, connecting interactive frontend components with RESTful backend services to deliver a cohesive research platform.
+
+- **Database Engineering & Legacy Data Migration:** Transformed anatomical research data from a legacy Microsoft Word document into a structured **JSON/JSONL dataset** suitable for programmatic processing and database ingestion. Developed a **MongoDB database seeding pipeline** to parse, transform, and populate anatomical region records, enabling efficient data retrieval and integration with the interactive brain atlas. This process modernized the handling of legacy scientific data and established a structured foundation for application functionality.
+
+- **Scientific Literature Search & Relevance Optimization:** Developed and refined a scientific literature discovery workflow integrating the **PubMed API**, incorporating **BM25 (Best Matching 25) relevance ranking** and AI-assisted semantic retrieval techniques. Applied information retrieval concepts to improve the ranking and relevance of scientific publications associated with anatomical regions and user research queries, enhancing the application's literature discovery capabilities.
+
+- **Computer Vision & Image Registration:** Applied **computer vision techniques, projective geometry, and homography transformations** to develop image processing and anatomical alignment functionality. Implemented image warping and spatial transformation workflows to support the positioning and comparison of user-uploaded research images against reference brain atlas structures.
+
+- **Interactive Brain Atlas Visualization:** Developed and integrated anatomical visualization features, including interactive region selection, sagittal views, image overlays, opacity adjustments, and region-specific research information. These features allow researchers to explore neuroanatomical structures and interact with associated scientific data.
+
+- **Backend API Development:** Designed and implemented **Flask-based REST API endpoints** supporting anatomical data retrieval, image processing, scientific literature search, research notes, collections, and application workflows. Integrated backend services with frontend components to enable data-driven functionality.
+
+- **Authentication & User Management:** Contributed to user authentication integration and account-management workflows, including support for external identity providers and user-specific application functionality.
+
+- **Research Notes & Data Management:** Developed features allowing users to create, organize, retrieve, and manage research notes and collections associated with anatomical regions and scientific publications.
+
+- **Application Integration & Testing:** Participated in debugging, functional testing, and frontend-backend integration to identify defects, resolve compatibility issues, and improve application stability, functionality, and usability.
+
+---
+
+### Agile Development & Scrum Experience
+
+Applied **Agile Scrum methodologies** throughout the development of Brainiacs Atlas, collaborating with a software engineering team to plan, implement, integrate, and deliver application features through iterative development cycles.
+
+#### Key Responsibilities
+
+- **Sprint Planning & Execution:** Participated in sprint planning, task prioritization, and iterative feature development to coordinate deliverables and maintain project progress.
+
+- **Product Backlog Management:** Collaborated with team members to organize development tasks, track feature requirements, and prioritize implementation activities based on project objectives and technical dependencies.
+
+- **Cross-Functional Team Collaboration:** Coordinated frontend, backend, database, and application integration efforts to maintain compatibility between independently developed software components.
+
+- **Git & Version Control:** Utilized **Git and collaborative branching workflows** to manage source code, integrate team contributions, resolve merge conflicts, and support coordinated development across the project repository.
+
+- **Iterative Testing & Quality Assurance:** Incorporated debugging, functional testing, and team feedback throughout development cycles to identify defects, improve application behavior, and validate completed functionality.
+
+- **Agile Communication & Problem-Solving:** Participated in team discussions, progress updates, and collaborative troubleshooting to address development challenges and maintain alignment with sprint objectives.
+
+#### Professional Development
+
+Working within an Agile Scrum environment strengthened my ability to balance hands-on technical development with team coordination, adapt to evolving project requirements, and contribute to software delivery across multiple interconnected components.
+
+---
+
+### Technical Skills Demonstrated
+
+| Engineering Discipline | Technologies & Concepts |
+|------------------------|-------------------------|
+| **Frontend Development** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend Development** | Python, Flask, RESTful APIs |
+| **Database Engineering** | MongoDB Atlas, NoSQL, JSON/JSONL, Data Transformation, Database Seeding |
+| **Information Retrieval & AI** | BM25 Ranking, Semantic Search, PubMed API, Relevance Optimization |
+| **Computer Vision** | Homography, Projective Transformations, Image Warping, Image Registration |
+| **Cloud & Infrastructure** | AWS, Cloud-Hosted Databases, Environment Configuration |
+| **Software Engineering** | Agile Scrum, SDLC, Git, Version Control, Integration Testing, Debugging |
+
+---
+
+### Team Collaboration
+
+Brainiacs Atlas was developed collaboratively as part of a university software engineering project.
+
+My contributions encompassed the majority of the application's core engineering functionality, including **full-stack application development, database engineering, scientific literature search, image processing, and interactive visualization**.
+
+Other team members primarily developed the dedicated **chat functionality and security features**, with ongoing collaboration across shared application components and integration workflows.
 
 ## Project Background & Attribution
 
