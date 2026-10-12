@@ -1,0 +1,403 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+
+    --tile-default: #3b82f6; 
+    --tile-hover: #facc15;   
+    --tile-selected: #ef4444;
+
+    /* DARK MODE - updated to dark grey */
+    --panel-bg: #171717;       /* was #1C2532 */
+    --panel-text: #ffffff;
+
+    --heading-bg: #333333;     /* slightly lighter grey for headings */
+    --heading-text: #ffffff;
+    --canvas-bg: #2b2f36;
+
+    /* Chat page vars used in ChatPage.tsx */
+    --page-bg: #171717;
+    --page-text: #ffffff;
+
+    /* SEND BUTTON - dark mode */
+    --chat-btn-bg: #ffffff;
+    --chat-btn-text: #000000;
+
+    --rail-active-bg: #ffffff;
+    --rail-active-text: #000000;
+
+    /* Loop message containers */
+    --loop-bg: #ffffff;
+    --loop-text: #111111;
+
+    --loop-top-bg: #1a1a1a;
+    --loop-top-text: #ffffff;
+
+    --loop-body-bg: #171717;
+    --loop-body-text: #ffffff;
+
+  }
+
+  .light {
+    --tile-default: #3b82f6;  
+    --tile-hover: #facc15;
+    --tile-selected: #ef4444;
+
+    --panel-bg: #ffffff;     
+    --panel-text: #1C2532;    
+
+    --heading-bg: #ffffff;    
+    --heading-text: #1f2937; 
+    --canvas-bg: #ffffff;
+
+    /* Chat page vars for light mode */
+    --page-bg: #ffffff;
+    --page-text: #111827;
+
+    /* SEND BUTTON - light mode */
+    --chat-btn-bg: #000000;
+    --chat-btn-text: #ffffff;
+
+    --rail-active-bg: #000000;
+    --rail-active-text: #ffffff;
+
+    --loop-bg: #1c1c1c;
+    --loop-text: #ffffff;
+
+    --loop-top-bg: #ffffff;
+    --loop-top-text: #111827;
+
+    --loop-body-bg: #ffffff;
+    --loop-body-text: #111827;
+
+  }
+
+  body {
+    @apply transition-colors duration-300 ease-in-out;
+    background-color: var(--panel-bg);
+    color: var(--panel-text);
+    font-family: "Work Sans", sans-serif;
+  }
+
+     /* ------------------------------
+     GLOBAL INPUT/TEXTAREA THEMING
+     Fix white background issue
+     ------------------------------ */
+
+  /* DARK MODE — when body does NOT have .light */
+  body:not(.light) input,
+  body:not(.light) textarea {
+    background-color: var(--panel-bg) !important;
+    color: var(--page-text) !important;
+    border-color: color-mix(in oklab, var(--panel-text) 10%, transparent) !important;
+  }
+  /* Remove forced white background inside Loop draft editor */
+  body:not(.light) .loop-editor * {
+    background-color: transparent !important;
+  }
+
+  /* LIGHT MODE */
+  .light input,
+  .light textarea {
+    background-color: #ffffff !important;
+    color: #111827 !important;
+    border-color: #e5e7eb !important;
+  }
+    /* Loop tool tabs */
+  .loop-tab {
+    transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+
+  
+  /* Loop tool tab text colours */
+
+  /* Dark mode (body does NOT have .light) */
+  body:not(.light) .loop-tab {
+    color: #f9fafb; /* default tab text = white */
+  }
+
+  body:not(.light) .loop-tab--active {
+    color: #111827 !important; /* active tab text = dark */
+  }
+
+  /* Light mode */
+  .light .loop-tab {
+    color: #111827; /* dark text on light pills */
+  }
+
+  .light .loop-tab--active {
+    color: #111827; /* keep it dark here too */
+  }
+
+  /* ----------------------------
+   FIX: Loop tab text visibility
+   Ensure opacity and color override
+   ---------------------------- */
+.loop-tab {
+  opacity: 1 !important;       /* stop global opacity from dimming text */
+  color: var(--page-text) !important;
+}
+.loop-tab > * {
+  opacity: 1 !important;
+}
+
+.light .loop-tab {
+  color: #111827 !important;   /* strong readable dark text */
+}
+
+body:not(.light) .loop-tab {
+  color: #f9fafb !important;    /* readable white text */
+}
+
+/* Active tab override */
+.loop-tab.active,
+.loop-tab--active {
+  opacity: 1 !important;
+  color: var(--page-text) !important;
+}
+
+
+
+
+
+}
+
+@layer utilities {
+  /* General */
+  .app_main_color {
+    @apply bg-[#1f2937];
+  }
+
+  .flex-between {
+    @apply flex justify-between items-center;
+  }
+
+  /* Typography */
+  .text-30-extrabold {
+    @apply text-[30px] font-extrabold text-white;
+  }
+
+  .text-30-bold {
+    @apply text-[30px] font-bold text-black;
+  }
+
+  .text-30-semibold {
+    @apply font-semibold text-[30px] text-black;
+  }
+
+  .text-26-semibold {
+    @apply font-semibold text-[26px] text-black;
+  }
+
+  .text-24-black {
+    @apply text-[24px] font-black text-black;
+  }
+
+  .text-20-medium {
+    @apply font-medium text-[20px] text-black;
+  }
+
+  .text-16-medium {
+    @apply font-medium text-[16px] text-black;
+  }
+
+  .text-14-normal {
+    @apply font-normal text-sm text-white/80;
+  }
+
+  /* Containers & Headings */
+  .pink_container {
+    @apply w-full bg-primary min-h-[530px] pattern flex justify-center items-center flex-col py-10 px-6;
+  }
+
+  .tag {
+    @apply bg-secondary px-6 py-3 font-work-sans font-bold rounded-sm uppercase relative tag-tri;
+  }
+
+  .heading {
+    @apply uppercase px-6 py-3 font-extrabold sm:text-[54px] sm:leading-[64px] text-[36px] leading-[46px]
+           max-w-5xl text-center my-5 transition-colors duration-300;
+    background-color: var(--heading-bg);
+    color: var(--heading-text);
+  }
+
+  .sub-heading {
+    @apply font-medium text-[20px] text-white max-w-2xl text-center break-words;
+  }
+
+  /* Section Containers */
+  .section_container {
+    @apply px-6 py-10 max-w-7xl mx-auto;
+  }
+
+  /* Card Layouts */
+  .card_grid {
+    @apply grid md:grid-cols-3 sm:grid-cols-2 gap-5;
+  }
+
+  .card_grid-sm {
+    @apply grid sm:grid-cols-2 gap-5;
+  }
+
+  .card_item {
+    @apply bg-white rounded-lg shadow-md p-6;
+  }
+
+  .card_item-text-center {
+    @apply text-center;
+  }
+
+  .no-result {
+    @apply text-black text-sm font-normal;
+  }
+
+  /* Profile Cards */
+  .profile_container {
+    @apply w-full pb-10 pt-20 px-6 max-w-7xl mx-auto flex flex-col lg:flex-row gap-10;
+  }
+
+  .profile_card {
+    @apply w-80 px-6 pb-6 pt-20 flex flex-col justify-center items-center
+           bg-primary border-[5px] border-black shadow-100 rounded-[30px]
+           relative z-0 h-fit max-lg:w-full;
+  }
+
+  .profile_title {
+    @apply w-11/12 bg-white border-[5px] border-black rounded-[20px]
+           px-5 py-3 absolute -top-9 shadow-100;
+  }
+
+  .profile_image {
+    @apply rounded-full object-cover border-[3px] border-black;
+  }
+
+  /* Dividers & Skeletons */
+  .divider {
+    @apply border-dotted bg-zinc-400 max-w-4xl my-10 mx-auto;
+  }
+
+  .view_skeleton {
+    @apply bg-zinc-400 h-10 w-24 rounded-lg fixed bottom-3 right-3;
+  }
+
+  /* Navbar / Buttons */
+  .avatar {
+    @apply p-0 focus-visible:ring-0 bg-none rounded-full drop-shadow-md !important;
+  }
+
+  .dropdown-menu {
+    @apply w-56 border-[5px] border-black bg-white p-5 rounded-2xl !important;
+  }
+
+  .login {
+    @apply border-[5px] py-4 border-black bg-white text-black relative shadow-100 font-medium
+           hover:shadow-none transition-all duration-500 !important;
+  }
+
+  /* Search Form */
+  .search-form {
+    @apply max-w-3xl w-full min-h-[80px] bg-white border-[5px] border-black rounded-[80px]
+           text-[24px] mt-8 px-5 flex items-center gap-5;
+  }
+
+  .search-input {
+    @apply flex-1 font-bold placeholder:font-semibold placeholder:text-black w-full outline-none;
+  }
+
+  .search-btn {
+    @apply size-[50px] rounded-full bg-black flex justify-center items-center !important;
+  }
+
+  /* Cards */
+  .card {
+    @apply bg-white border-[5px] border-black py-6 px-5 rounded-[22px] shadow-200
+           hover:border-primary transition-all duration-500 hover:shadow-300 hover:bg-primary-100;
+  }
+
+  .card_date {
+    @apply font-medium text-[16px] bg-primary-100 px-4 py-2 rounded-full group-hover:bg-white-100;
+  }
+
+  .card_desc {
+    @apply font-normal text-[16px] line-clamp-2 my-3 text-black break-all;
+  }
+
+  .card_img {
+    @apply w-full h-[164px] rounded-[10px] object-cover;
+  }
+
+  .card_btn {
+    @apply rounded-full bg-black font-medium text-[16px] text-white px-5 py-3 !important;
+  }
+
+  .card_skeleton {
+    @apply w-full h-96 rounded-[22px] bg-zinc-400;
+  }
+
+  /* Forms */
+  .form {
+    @apply max-w-2xl mx-auto bg-white my-10 space-y-8 px-6;
+  }
+
+  .form_label {
+    @apply font-bold text-[18px] text-black uppercase;
+  }
+
+  .form_input {
+    @apply border-[3px] border-black px-5 py-7 text-[18px] text-black font-semibold
+           rounded-full mt-3 placeholder:text-black-300 !important;
+  }
+
+  .form_textarea {
+    @apply border-[3px] border-black p-5 text-[18px] text-black font-semibold
+           rounded-[20px] mt-3 placeholder:text-black-300 !important;
+  }
+
+  .form_error {
+    @apply text-red-500 mt-2 ml-5;
+  }
+
+  .form_editor {
+    @apply mt-3 border-[3px] border-black text-[18px] text-black font-semibold placeholder:text-black-300 !important;
+  }
+
+  .form_btn {
+    @apply bg-primary border-[4px] border-black rounded-full p-5 min-h-[70px]
+           w-full font-bold text-[18px] !important;
+  }
+
+  .view-container {
+    @apply flex justify-end items-center mt-5 fixed bottom-3 right-3;
+  }
+
+  .view-text {
+    @apply font-medium text-[16px] bg-primary-100 px-4 py-2 rounded-lg capitalize;
+  }
+
+  .category-tag {
+    @apply font-medium text-[16px] bg-primary-100 px-4 py-2 rounded-full;
+  }
+
+  .pattern {
+    background-size: 5% 100%;
+    background-position: center;
+    background-repeat: repeat-x;
+  }
+
+  .tag-tri {
+    @apply before:content-[''] before:absolute before:top-2 before:left-2 before:border-t-[10px]
+           before:border-t-black before:border-r-[10px] before:border-r-transparent
+           after:content-[''] after:absolute after:bottom-2 after:right-2
+           after:border-b-[10px] after:border-b-black after:border-l-[10px]
+           after:border-l-transparent;
+  }
+}
+
+.w-md-editor-toolbar {
+  padding: 10px !important;
+}

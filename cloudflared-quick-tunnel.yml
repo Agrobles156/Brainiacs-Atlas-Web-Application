@@ -1,0 +1,6 @@
+ingress:
+  # Route /flask-api/* to Flask backend
+  - path: /flask-api/*
+    service: http://localhost:5000
+  # Route everything else to Next.js frontend
+  - service: http://localhost:3000

@@ -1,0 +1,29 @@
+# Security Dependencies for Enhanced Features
+
+# Basic requirements (already have some)
+flask>=2.3.0
+flask-cors>=4.0.0
+flask-session>=0.5.0
+werkzeug>=2.3.0
+python-dotenv>=1.0.0
+
+# Authentication & JWT
+PyJWT>=2.8.0
+
+# File security and validation
+python-magic>=0.4.27
+python-magic-bin>=0.4.14  # For Windows
+Pillow>=10.0.0
+
+# Database security (if you upgrade to real database later)
+pymongo>=4.0.0
+SQLAlchemy>=2.0.0
+
+# Additional security libraries
+cryptography>=41.0.0
+bcrypt>=4.0.0
+
+# Development and testing
+pytest>=7.4.0
+pytest-flask>=1.2.0
+requests>=2.31.0  # For testing API endpoints

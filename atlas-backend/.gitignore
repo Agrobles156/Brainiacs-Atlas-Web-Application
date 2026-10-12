@@ -1,0 +1,56 @@
+# ======================================
+# Environment Variables & Secrets
+# ======================================
+.env
+.env.*
+!.env.example
+.flaskenv
+env/
+.venv/
+venv/
+*.pem
+*.key
+
+# ======================================
+# Python Cache & Build Files
+# ======================================
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ======================================
+# Flask Runtime & Sessions
+# ======================================
+flask_session/
+session_data/
+uploads/
+instance/
+*.log
+
+# ======================================
+# Local Databases
+# ======================================
+*.db
+*.sqlite
+*.sqlite3
+
+# ======================================
+# Testing & Coverage Reports
+# ======================================
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# ======================================
+# IDE & Operating System
+# ======================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

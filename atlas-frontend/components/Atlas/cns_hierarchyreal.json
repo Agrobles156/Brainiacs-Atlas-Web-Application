@@ -1,0 +1,3460 @@
+[
+  {
+    "name": "Central nervous system [rat] (CNS)",
+    "children": [
+      {
+        "name": "Endbrain or Cerebrum (EB) (CH)",
+        "children": [
+          {
+            "name": "Cerebral nuclei (CNU)",
+            "children": [
+              {
+                "name": "Pallidum (PAL)",
+                "children": [
+                  {
+                    "name": "Globus pallidus (GP)",
+                    "children": [
+                      {
+                        "name": "Medial globus pallidus (GPm)",
+                        "children": []
+                      },
+                      {
+                        "name": "Lateral globus pallidus (GPl)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Innominate substance (SI)",
+                    "children": []
+                  },
+                  {
+                    "name": "Magnocellular nucleus (MA)",
+                    "children": []
+                  },
+                  {
+                    "name": "Medial septal complex (MSC)",
+                    "children": [
+                      {
+                        "name": "Medial septal nucleus (MS)",
+                        "children": []
+                      },
+                      {
+                        "name": "Diagonal band nucleus (NDB)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Triangular septal nucleus (TRS)",
+                    "children": [
+                      {
+                        "name": "bed nucleus of medullary stria (BSM)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Bed nuclei of terminal stria (BST)",
+                    "children": [
+                      {
+                        "name": "Anterior division (BSTa)",
+                        "children": [
+                          {
+                            "name": "Anteromedial area (BSTam)",
+                            "children": []
+                          },
+                          {
+                            "name": "Fusiform nucleus (BSTfu)",
+                            "children": []
+                          },
+                          {
+                            "name": "Ventral nucleus (BSTv)",
+                            "children": []
+                          },
+                          {
+                            "name": "Magnocellular nucleus (BSTmg)",
+                            "children": []
+                          },
+                          {
+                            "name": "Dorsomedial nucleus (BSTdm)",
+                            "children": []
+                          },
+                          {
+                            "name": "Anterolateral area (BSTal)",
+                            "children": []
+                          },
+                          {
+                            "name": "Oval nucleus (BSTov)",
+                            "children": []
+                          },
+                          {
+                            "name": "Juxtacapsular nucleus (BSTju)",
+                            "children": []
+                          },
+                          {
+                            "name": "Rhomboid nucleus (BSTrh)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Posterior division (BSTp)",
+                        "children": [
+                          {
+                            "name": "Principal nucleus (BSTpr)",
+                            "children": [
+                              {
+                                "name": "cell-sparse zone (BSTsz)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Interfascicular nucleus (BSTif)",
+                            "children": [
+                              {
+                                "name": "premedullary nucleus (BSTpm)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Transverse nucleus (BSTtr)",
+                            "children": []
+                          },
+                          {
+                            "name": "Dorsal nucleus (BSTd)",
+                            "children": []
+                          },
+                          {
+                            "name": "Strial extension (BSTse)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Bed nucleus of anterior commissure (BAC)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Striatum (STR)",
+                "children": [
+                  {
+                    "name": "Olfactory tubercle (OT)",
+                    "children": [
+                      {
+                        "name": "molecular layer (OT1)",
+                        "children": []
+                      },
+                      {
+                        "name": "pyramidal layer (OT2)",
+                        "children": []
+                      },
+                      {
+                        "name": "polymorph layer (OT3)",
+                        "children": []
+                      },
+                      {
+                        "name": "islands of Calleja",
+                        "children": []
+                      },
+                      {
+                        "name": "major island of Calleja",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Accumbens nucleus (ACB)",
+                    "children": []
+                  },
+                  {
+                    "name": "Lateral septal complex (LSX)",
+                    "children": [
+                      {
+                        "name": "Lateral septal nucleus (LS)",
+                        "children": [
+                          {
+                            "name": "Rostral part (LSr)",
+                            "children": [
+                              {
+                                "name": "Medial zone (LSr.m)",
+                                "children": [
+                                  {
+                                    "name": "Ventral region (LSr.m.v)",
+                                    "children": [
+                                      {
+                                        "name": "rostral domain (LSr.m.v.r)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "caudal domain (LSr.m.v.c)",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Dorsal region (LSr.m.d)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Ventrolateral zone (LSr.vl)",
+                                "children": [
+                                  {
+                                    "name": "ventral region (LSr.vl.v)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "dorsal region (LSr.vl.d)",
+                                    "children": [
+                                      {
+                                        "name": "medial domain (LSr.vl.d.m)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "lateral domain (LSr.vl.d.l)",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Dorsolateral zone (LSr.dl)",
+                                "children": [
+                                  {
+                                    "name": "medial region (LSr.dl.m)",
+                                    "children": [
+                                      {
+                                        "name": "ventral domain (LSr.dl.m.v)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "dorsal domain (LSr.dl.m.d)",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "lateral region (LSr.dl.l)",
+                                    "children": [
+                                      {
+                                        "name": "ventral domain (LSr.dl.l.v)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "dorsal domain (LSr.dl.l.d)",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Caudal part (LSc)",
+                            "children": [
+                              {
+                                "name": "Ventral zone (LSc.v)",
+                                "children": [
+                                  {
+                                    "name": "medial region (LSc.v.m)",
+                                    "children": [
+                                      {
+                                        "name": "ventral domain (LSc.v.m.v)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "dorsal domain (LSc.v.m.d)",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "intermediate region (LSc.v.i)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "lateral region (LSc.v.l)",
+                                    "children": [
+                                      {
+                                        "name": "ventral domain (LSc.v.l.v)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "dorsal domain (LSc.v.l.d)",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Dorsal zone (LSc.d)",
+                                "children": [
+                                  {
+                                    "name": "rostral region (LSc.d.r)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "dorsal region (LSc.d.d)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "lateral region (LSc.d.l)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "ventral region (LSc.d.v)",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Ventral part (LSv)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Septohippocampal nucleus (SH)",
+                        "children": []
+                      },
+                      {
+                        "name": "Septofimbrial nucleus (SF)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Striatal fundus (FS)",
+                    "children": []
+                  },
+                  {
+                    "name": "Caudoputamen (CP)",
+                    "children": []
+                  },
+                  {
+                    "name": "Anterior amygdalar area (AAA)",
+                    "children": []
+                  },
+                  {
+                    "name": "Central amygdalar nucleus (CEA)",
+                    "children": [
+                      {
+                        "name": "Medial part (CEAm)",
+                        "children": []
+                      },
+                      {
+                        "name": "Lateral part (CEAl)",
+                        "children": []
+                      },
+                      {
+                        "name": "Capsular part (CEAc)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Intercalated amygdalar nuclei (IA)",
+                    "children": []
+                  },
+                  {
+                    "name": "Medial amygdalar nucleus (MEA)",
+                    "children": [
+                      {
+                        "name": "Anteroventral part (MEAav)",
+                        "children": []
+                      },
+                      {
+                        "name": "Anterodorsal part (MEAad)",
+                        "children": []
+                      },
+                      {
+                        "name": "Posteroventral part (MEApv)",
+                        "children": []
+                      },
+                      {
+                        "name": "Posterodorsal part (MEApd)",
+                        "children": [
+                          {
+                            "name": "sublayer a (MEApd-a)",
+                            "children": []
+                          },
+                          {
+                            "name": "sublayer b (MEApd-b)",
+                            "children": []
+                          },
+                          {
+                            "name": "sublayer c (MEApd-c)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Bed nucleus of accessory olfactory tract (BA)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cerebral cortex (CTX)",
+            "children": [
+              {
+                "name": "Cortical plate (CTXpl)",
+                "children": [
+                  {
+                    "name": "Limbic region (LIMB)",
+                    "children": [
+                      {
+                        "name": "Olfactory region (OLF)",
+                        "children": [
+                          {
+                            "name": "Olfactory bulb (OB)",
+                            "children": [
+                              {
+                                "name": "Main olfactory bulb (MOB)",
+                                "children": [
+                                  {
+                                    "name": "glomerular layer (MOBgl)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "outer plexiform layer (MOBopl)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "mitral layer (MOBmi)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "inner plexiform layer (MOBipl)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "granule cell layer (MOBgr)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Accessory olfactory bulb (AOB)",
+                                "children": [
+                                  {
+                                    "name": "glomerular layer (AOBgl)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "mitral layer (AOBmi)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "granular layer (AOBgr)",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Anterior olfactory area (AOA)",
+                            "children": [
+                              {
+                                "name": "anterior olfactory area principal part (AOApr)",
+                                "children": [
+                                  {
+                                    "name": "molecular layer (AOApr1)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "pyramidal layer (AOApr2)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "anterior olfactory area external part (AOAe)",
+                                "children": [
+                                  {
+                                    "name": "molecular layer (AOAe1)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "pyramidal layer (AOAe2)",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Tenia tecta (TT)",
+                            "children": [
+                              {
+                                "name": "Ventral part (TTv)",
+                                "children": [
+                                  {
+                                    "name": "layers 1-3 (TTv1-3)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Dorsal part (TTd)",
+                                "children": [
+                                  {
+                                    "name": "layers 1-4 (TTd1-4)",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Piriform area (PIR)",
+                            "children": [
+                              {
+                                "name": "molecular layer (PIR1)",
+                                "children": []
+                              },
+                              {
+                                "name": "pyramidal layer (PIR2)",
+                                "children": []
+                              },
+                              {
+                                "name": "polymorph layer (PIR3)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Cortical amygdalar complex (COX)",
+                            "children": [
+                              {
+                                "name": "Cortical amygdalar area (COA)",
+                                "children": [
+                                  {
+                                    "name": "Anterior part (COAa)",
+                                    "children": [
+                                      {
+                                        "name": "layers 1,2 (COAa1-3)",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Posterior part (COAp)",
+                                    "children": [
+                                      {
+                                        "name": "Medial zone (COApm)",
+                                        "children": [
+                                          {
+                                            "name": "layers 1-3 (COApm1-3)",
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Lateral zone (COApl)",
+                                        "children": [
+                                          {
+                                            "name": "layers 1-3 (COApl1-3)",
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Nucleus of lateral olfactory tract (NLOT)",
+                                "children": [
+                                  {
+                                    "name": "molecular layer (NLOT1)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "pyramidal layer (NLOT2)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Piriform-amygdalar area (PAA)",
+                                "children": [
+                                  {
+                                    "name": "layers 1-3 (PAA1-3)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Postpiriform transition area (TR)",
+                                "children": [
+                                  {
+                                    "name": "layers 1-3 (TR1-3)",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Hippocampal formation (HPF)",
+                        "children": [
+                          {
+                            "name": "Hippocampal region (HIP)",
+                            "children": [
+                              {
+                                "name": "Indusium griseum (IG)",
+                                "children": []
+                              },
+                              {
+                                "name": "Fasciola cinerea (FC)",
+                                "children": []
+                              },
+                              {
+                                "name": "Dentate gyrus (DG)",
+                                "children": [
+                                  {
+                                    "name": "molecular layer (DGmo)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "granule cell layer (DGsg)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "polymorph layer (DGpo)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Ammon’s horn (CA)",
+                                "children": [
+                                  {
+                                    "name": "Field CA3 (CA3)",
+                                    "children": [
+                                      {
+                                        "name": "stratum lacunosum-moleculare (CA3slm)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "stratum radiatum (CA3sr)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "stratum lucidum (CA3slu)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "pyramidal layer (CA3sp)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "stratum oriens (CA3so)",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Field CA2 (CA2)",
+                                    "children": [
+                                      {
+                                        "name": "stratum lacunosum-moleculare (CA2slm)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "stratum radiatum (CA2sr)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "pyramidal layer (CA2sp)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "stratum oriens (CA2so)",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Field CA1 (CA1)",
+                                    "children": [
+                                      {
+                                        "name": "Ventral part (CA1v)",
+                                        "children": [
+                                          {
+                                            "name": "stratum lacunosum-moleculare (CA1v-slm)",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "stratum radiatum (CA1v-sr)",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "deep pyramidal layer (CA1v-spd)",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "superficial pyramidal layer (CA1v-sps)",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "stratum oriens (CA1v-so)",
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Dorsal part CA1d)",
+                                        "children": [
+                                          {
+                                            "name": "stratum lacunosum-moleculare (CA1d-slm)",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "stratum radiatum (CA1d-sr)",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "deep pyramidal layer (CA1d-spd)",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "superficial pyramidal layer (CA1d-sps)",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "stratum oriens (CA1d-so)",
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Retrohippocampal region (RHP)",
+                            "children": [
+                              {
+                                "name": "Subiculum (SUB)",
+                                "children": [
+                                  {
+                                    "name": "Ventral part (SUBv)",
+                                    "children": [
+                                      {
+                                        "name": "molecular layer (SUBv-m)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "stratum radiatum (SUBv-sr)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "pyramidal layer (SUBv-sp)",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Dorsal part (SUBd)",
+                                    "children": [
+                                      {
+                                        "name": "molecular layer (SUBd-m)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "stratum radiatum (SUBd-sr)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "pyramidal layer (SUBd-sp)",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Presubiculum (PRE)",
+                                "children": [
+                                  {
+                                    "name": "layers 1-6 (PRE1-6)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Postsubiculum (POST)",
+                                "children": [
+                                  {
+                                    "name": "layers 1-6 (POST1-6)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Parasubiculum (PAR)",
+                                "children": [
+                                  {
+                                    "name": "layers 1-6 (PAR1-6)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Entorhinal area (ENT)",
+                                "children": [
+                                  {
+                                    "name": "Medial part (ENTm)",
+                                    "children": [
+                                      {
+                                        "name": "layers 1-6 (ENTm1-6)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Lateral part (ENTl)",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "layers 1-6 (ENTl1-6)",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Cingulate region (CNG)",
+                        "children": [
+                          {
+                            "name": "Infralimbic area (ILA)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (ILA1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Prelimbic area (PL)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (PL1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Anterior cingulate area (ACA)",
+                            "children": [
+                              {
+                                "name": "Ventral part (ACAv)",
+                                "children": [
+                                  {
+                                    "name": "layers 1-6 (ACAv1-6)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Dorsal part (ACAd)",
+                                "children": [
+                                  {
+                                    "name": "layers 1-6 (ACAd1-6)",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Retrosplenial area (RSP)",
+                            "children": [
+                              {
+                                "name": "Ventral part (RSPve)",
+                                "children": [
+                                  {
+                                    "name": "Anterior zone (RSPv)",
+                                    "children": [
+                                      {
+                                        "name": "layers 1-6 (RSPv1-6)",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Zone a (RSPv.a)",
+                                    "children": [
+                                      {
+                                        "name": "layers 1-6 (RSPv.a1-6)",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Zone b/c",
+                                    "children": [
+                                      {
+                                        "name": "layers 1-6",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Dorsal part (RSPd)",
+                                "children": [
+                                  {
+                                    "name": "layers 1-6 (RSPd1-6)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Lateral agranular part (RSPagl)",
+                                "children": [
+                                  {
+                                    "name": "layers 1-6 (RSPagl1-6)",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Insular region (INS)",
+                    "children": [
+                      {
+                        "name": "Agranular insular areas (AI)",
+                        "children": [
+                          {
+                            "name": "Ventral agranular insular area (AIv)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (AIv1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Dorsal agranular insular area (AId)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (AId1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Posterior agranular insular area (AIp)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (AIp1-6)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Gustatory area (GU)",
+                        "children": [
+                          {
+                            "name": "layers 1-6 (GU1-6)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Visceral area (VISC)",
+                        "children": [
+                          {
+                            "name": "layers 1-6 (VISC1-6)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Frontal region (FRO)",
+                    "children": [
+                      {
+                        "name": "Orbital region (ORB)",
+                        "children": [
+                          {
+                            "name": "Ventral orbital area (ORBv)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (ORBv1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Ventrolateral orbital area (ORBvl)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (ORBvl1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Medial orbital area (ORBm)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (ORBm1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Lateral orbital area (ORBl)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (ORBl1-6)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Somatomotor areas (MO)",
+                        "children": [
+                          {
+                            "name": "Primary somatomotor area (MOp)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (MOp1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Secondary somatomotor areas (MOs)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (MOs1-6)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Parietal region (PTL)",
+                    "children": [
+                      {
+                        "name": "Somatosensory areas (SS)",
+                        "children": [
+                          {
+                            "name": "Primary somatosensory area (SSp)",
+                            "children": [
+                              {
+                                "name": "barrel field layers 1-6 (SSp-bfd1-6)",
+                                "children": []
+                              },
+                              {
+                                "name": "lower limb field layers 1-6 (SSp-ll1-6)",
+                                "children": []
+                              },
+                              {
+                                "name": "mouth field layers 1-6 (SSp-m1-6)",
+                                "children": []
+                              },
+                              {
+                                "name": "nose field layers 1-6 (SSp-n1-6)",
+                                "children": []
+                              },
+                              {
+                                "name": "trunk field layers 1-6 (SSp-tr1-6)",
+                                "children": []
+                              },
+                              {
+                                "name": "upper limb field layers 1-6 (SSp-ul1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Supplemental somatosensory area (SSs)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (SSs1-6)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Posterior parietal association areas (PTLp)",
+                        "children": [
+                          {
+                            "name": "layers 1-6 (PTLp1-6)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Temporal region (TE)",
+                    "children": [
+                      {
+                        "name": "Perirhinal area (PERI)",
+                        "children": [
+                          {
+                            "name": "layers 1-6 (PERI1-6)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Ectorhinal area (ECT)",
+                        "children": [
+                          {
+                            "name": "layers 1-6 (ECT1-6)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Temporal association areas (TEa)",
+                        "children": [
+                          {
+                            "name": "layers 1-6 (TEa1-6)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Auditory areas (AUD)",
+                        "children": [
+                          {
+                            "name": "Ventral auditory areas (AUDv)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (AUDv1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Primary auditory area (AUDp)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (AUDp1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Dorsal auditory areas (AUDd)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (AUDd1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Posterior auditory area (AUDpo)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (AUDpo1-6)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Occipital region (OCC)",
+                    "children": [
+                      {
+                        "name": "Visual areas (VIS)",
+                        "children": [
+                          {
+                            "name": "Rostrolateral visual area (VISrl)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (VISrl1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Anterolateral visual area (VISal)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (VISal1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Anterior laterolateral visual area (VISlla)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (VISlla1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Laterolateral visual area (VISll)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (VISll1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Intermediolateral visual area (VISli)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (VISli1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Mediolateral visual area (VISlm)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (VISlm1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Posterolateral visual area (VISpl)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (VISpl1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Primary visual area (VISp)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (VISp1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Anteromedial visual area (VISam)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (VISam1-6)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Posteromedial visual area (VISpm)",
+                            "children": [
+                              {
+                                "name": "layers 1-6 (VISpm1-6)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Cortical subplate (CTXsp)",
+                "children": [
+                  {
+                    "name": "Basolateral amygdalar complex (BLX)",
+                    "children": [
+                      {
+                        "name": "Nucleus of lateral olfactory tract dorsal cap (NLOT3)",
+                        "children": []
+                      },
+                      {
+                        "name": "Basomedial amygdalar nucleus (BMA)",
+                        "children": [
+                          {
+                            "name": "Anterior part (BMAa)",
+                            "children": []
+                          },
+                          {
+                            "name": "Posterior part (BMAp)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Basolateral amygdalar nucleus (BLA)",
+                        "children": [
+                          {
+                            "name": "Anterior part (BLAa)",
+                            "children": []
+                          },
+                          {
+                            "name": "Posterior part (BLAp)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Lateral amygdalar nucleus (LA)",
+                        "children": []
+                      },
+                      {
+                        "name": "Posterior amygdalar nucleus (PA)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Endopiriform nucleus (EP)",
+                    "children": [
+                      {
+                        "name": "Ventral part (EPv)",
+                        "children": []
+                      },
+                      {
+                        "name": "Dorsal part (EPd)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Claustrum (CLA)",
+                    "children": []
+                  },
+                  {
+                    "name": "Isocortical layer 6b",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Interbrain (IB)",
+        "children": [
+          {
+            "name": "Hypothalamus (HY)",
+            "children": [
+              {
+                "name": "Periventricular hypothalamic zone (HYp)",
+                "children": [
+                  {
+                    "name": "Terminal lamina",
+                    "children": [
+                      {
+                        "name": "Vascular organ of lamina terminalis (OV)",
+                        "children": []
+                      },
+                      {
+                        "name": "Median preoptic nucleus (MEPO)",
+                        "children": []
+                      },
+                      {
+                        "name": "Subfornical organ (SFO)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Anteroventral periventricular nucleus (AVPV)",
+                    "children": []
+                  },
+                  {
+                    "name": "Suprachiasmatic preoptic nucleus (PSCH)",
+                    "children": []
+                  },
+                  {
+                    "name": "Periventricular hypothalamic nucleus anterior part (PVa)",
+                    "children": []
+                  },
+                  {
+                    "name": "preoptic zone (PVpo)",
+                    "children": [
+                      {
+                        "name": "anterior zone (PVaa)",
+                        "children": []
+                      },
+                      {
+                        "name": "intermediate zone (PVi)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Internuclear hypothalamic area",
+                    "children": []
+                  },
+                  {
+                    "name": "Anteroventral preoptic nucleus (AVP)",
+                    "children": []
+                  },
+                  {
+                    "name": "Anterodorsal preoptic nucleus (ADP)",
+                    "children": []
+                  },
+                  {
+                    "name": "Medial preoptic area (MPO)",
+                    "children": []
+                  },
+                  {
+                    "name": "Parastrial nucleus (PS)",
+                    "children": []
+                  },
+                  {
+                    "name": "Posterodorsal preoptic nucleus (PD)",
+                    "children": []
+                  },
+                  {
+                    "name": "Ventrolateral preoptic nucleus (VLP)",
+                    "children": []
+                  },
+                  {
+                    "name": "Suprachiasmatic nucleus (SCH)",
+                    "children": []
+                  },
+                  {
+                    "name": "Subparaventricular zone (SBPV)",
+                    "children": []
+                  },
+                  {
+                    "name": "Paraventricular hypothalamic nucleus (PVH)",
+                    "children": [
+                      {
+                        "name": "Parvicellular division (PVHp)",
+                        "children": [
+                          {
+                            "name": "Periventricular part (PVHpv)",
+                            "children": []
+                          },
+                          {
+                            "name": "Anterior parvicellular part (PVHap)",
+                            "children": []
+                          },
+                          {
+                            "name": "Medial parvicellular part dorsal zone (PVHmpd)",
+                            "children": [
+                              {
+                                "name": "lateral wing (PVHmpdl)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Magnocellular division (PVHm)",
+                        "children": [
+                          {
+                            "name": "Anterior magnocellular part (PVHam)",
+                            "children": []
+                          },
+                          {
+                            "name": "Posterior magnocellular part (PVHpm)",
+                            "children": [
+                              {
+                                "name": "medial zone (PVHpmm)",
+                                "children": []
+                              },
+                              {
+                                "name": "lateral zone (PVHpml)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Descending division (PVHd)",
+                        "children": [
+                          {
+                            "name": "medial parvicellular part ventral zone (PVHmpv)",
+                            "children": []
+                          },
+                          {
+                            "name": "dorsal parvicellular part (PVHdp)",
+                            "children": []
+                          },
+                          {
+                            "name": "lateral parvicellular part (PVHlp)",
+                            "children": []
+                          },
+                          {
+                            "name": "forniceal part (PVHf)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Anterior hypothalamic area (AHA)",
+                    "children": []
+                  },
+                  {
+                    "name": "Supraoptic nucleus (SO)",
+                    "children": [
+                      {
+                        "name": "principal part (SOp)",
+                        "children": []
+                      },
+                      {
+                        "name": "retrochiasmatic part (SOr)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Arcuate hypothalamic nucleus (ARH)",
+                    "children": []
+                  },
+                  {
+                    "name": "Dorsomedial hypothalamic nucleus (DMH)",
+                    "children": [
+                      {
+                        "name": "Anterior part (DMHa)",
+                        "children": []
+                      },
+                      {
+                        "name": "Posterior part (DMHp)",
+                        "children": []
+                      },
+                      {
+                        "name": "Ventral part (DMHv)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Periventricular hypothalamic nucleus posterior part (PVp)",
+                    "children": []
+                  },
+                  {
+                    "name": "Posterior hypothalamic nucleus (PH)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Medial hypothalamic zone (HYm)",
+                "children": [
+                  {
+                    "name": "Medial preoptic nucleus (MPN)",
+                    "children": [
+                      {
+                        "name": "Medial part (MPNm)",
+                        "children": []
+                      },
+                      {
+                        "name": "Central part (MPNc)",
+                        "children": []
+                      },
+                      {
+                        "name": "Lateral part (MPNl)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Anterior hypothalamic nucleus (AHN)",
+                    "children": [
+                      {
+                        "name": "Anterior part (AHNa)",
+                        "children": []
+                      },
+                      {
+                        "name": "Central part (AHNc)",
+                        "children": [
+                          {
+                            "name": "nucleus circularis (NC)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Posterior part (AHNp)",
+                        "children": []
+                      },
+                      {
+                        "name": "Dorsal part (AHNd)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Ventromedial hypothalamic nucleus (VMH)",
+                    "children": [
+                      {
+                        "name": "Anterior part (VMHa)",
+                        "children": []
+                      },
+                      {
+                        "name": "Ventrolateral part (VMHvl)",
+                        "children": []
+                      },
+                      {
+                        "name": "Central part (VMHc)",
+                        "children": []
+                      },
+                      {
+                        "name": "Dorsomedial part (VMHdm)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Ventral premammillary nucleus (PMv)",
+                    "children": []
+                  },
+                  {
+                    "name": "Dorsal premammillary nucleus (PMd)",
+                    "children": []
+                  },
+                  {
+                    "name": "Mammillary body (MBO)",
+                    "children": [
+                      {
+                        "name": "Tuberomammillary nucleus (TM)",
+                        "children": [
+                          {
+                            "name": "ventral part (TMv)",
+                            "children": []
+                          },
+                          {
+                            "name": "dorsal part (TMd)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Medial mammillary nucleus (MM)",
+                        "children": [
+                          {
+                            "name": "principal part (MMpr)",
+                            "children": []
+                          },
+                          {
+                            "name": "median part (MMme)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Lateral mammillary nucleus (LM)",
+                        "children": []
+                      },
+                      {
+                        "name": "Supramammillary nucleus (SUM)",
+                        "children": [
+                          {
+                            "name": "Medial part (SUMm)",
+                            "children": []
+                          },
+                          {
+                            "name": "Lateral part (SUMl)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Lateral hypothalamic zone (HYl)",
+                "children": [
+                  {
+                    "name": "Lateral preoptic area (LPO)",
+                    "children": []
+                  },
+                  {
+                    "name": "Lateral hypothalamic area (LHA)",
+                    "children": [
+                      {
+                        "name": "Anterior group (LHAag)",
+                        "children": [
+                          {
+                            "name": "Retrochiasmatic area (RCH)",
+                            "children": []
+                          },
+                          {
+                            "name": "Anterior region (LHAa)",
+                            "children": [
+                              {
+                                "name": "ventral zone (LHAav)",
+                                "children": []
+                              },
+                              {
+                                "name": "intermediate zone (LHAai)",
+                                "children": []
+                              },
+                              {
+                                "name": "dorsal zone (LHAad)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Middle group (LHAmg)",
+                        "children": [
+                          {
+                            "name": "Medial tier (LHAm)",
+                            "children": [
+                              {
+                                "name": "Juxtaventromedial region (LHAjv)",
+                                "children": [
+                                  {
+                                    "name": "Ventral zone (LHAjvv)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Dorsal zone (LHAjvd)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Juxtaparaventricular region (LHAjp)",
+                                "children": []
+                              },
+                              {
+                                "name": "Juxtadorsomedial region (LHAjd)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Perifornical tier (LHApf)",
+                            "children": [
+                              {
+                                "name": "Subfornical region (LHAsf)",
+                                "children": [
+                                  {
+                                    "name": "Anterior zone (LHAsfa)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Posterior zone (LHAsfp)",
+                                    "children": [
+                                      {
+                                        "name": "premammillary subzone (LHAsfpm)",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Suprafornical region (LHAs)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Lateral tier (LHAl)",
+                            "children": [
+                              {
+                                "name": "Tuberal nucleus (TU)",
+                                "children": [
+                                  {
+                                    "name": "subventromedial part (TUsv)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "intermediate part (TUi)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "terete part (TUte)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "lateral part (TUl)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Ventral region (LHAv)",
+                                "children": [
+                                  {
+                                    "name": "medial zone (LHAvm)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "lateral zone (LHAvl)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "parvicellular region (LHApc)",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "magnocellular nucleus (LHAma)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Dorsal region (LHAd)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Posterior group (LHApg)",
+                        "children": [
+                          {
+                            "name": "Posterior region (LHAp)",
+                            "children": [
+                              {
+                                "name": "Preparasubthalamic nucleus (PST)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Parasubthalamic nucleus (PSTN)",
+                            "children": []
+                          },
+                          {
+                            "name": "Subthalamic nucleus (STN)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Retina",
+                "children": [
+                  {
+                    "name": "ganglion cell layer (Rgcl)",
+                    "children": []
+                  },
+                  {
+                    "name": "inner plexiform layer (Ripl)",
+                    "children": []
+                  },
+                  {
+                    "name": "inner nuclear layer (Rinl)",
+                    "children": []
+                  },
+                  {
+                    "name": "outer plexiform layer (Ropl)",
+                    "children": []
+                  },
+                  {
+                    "name": "outer nuclear layer (Ronl)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Thalamus (TH)",
+            "children": [
+              {
+                "name": "Ventral part of thalamus (THv)",
+                "children": [
+                  {
+                    "name": "Zona incerta general (ZIg)",
+                    "children": [
+                      {
+                        "name": "Zona incerta (ZI)",
+                        "children": [
+                          {
+                            "name": "dopaminergic group (ZIda)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Fields of Forel (FF)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Ventral lateral geniculate nucleus (LGv)",
+                    "children": [
+                      {
+                        "name": "medial zone (LGvm)",
+                        "children": []
+                      },
+                      {
+                        "name": "lateral zone (LGvl)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Intergeniculate leaflet (IGL)",
+                    "children": []
+                  },
+                  {
+                    "name": "Reticular thalamic nucleus (RT)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Dorsal part of thalamus (THd)",
+                "children": [
+                  {
+                    "name": "Midline thalamic nuclei (MTN)",
+                    "children": [
+                      {
+                        "name": "Nucleus reuniens (RE)",
+                        "children": [
+                          {
+                            "name": "Rostral division (REr)",
+                            "children": [
+                              {
+                                "name": "anterior part (REra)",
+                                "children": []
+                              },
+                              {
+                                "name": "dorsal part (RErd)",
+                                "children": []
+                              },
+                              {
+                                "name": "ventral part (RErv)",
+                                "children": []
+                              },
+                              {
+                                "name": "lateral part (RErl)",
+                                "children": []
+                              },
+                              {
+                                "name": "median part (RErm)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Caudal division (REc)",
+                            "children": [
+                              {
+                                "name": "posterior part (REcp)",
+                                "children": []
+                              },
+                              {
+                                "name": "dorsal part (REcd)",
+                                "children": []
+                              },
+                              {
+                                "name": "median part (REcm)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Paraventricular thalamic nucleus (PVT)",
+                        "children": []
+                      },
+                      {
+                        "name": "Paratenial nucleus (PT)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Anterior thalamic nuclei (ATN)",
+                    "children": [
+                      {
+                        "name": "Anteroventral thalamic nucleus (AV)",
+                        "children": []
+                      },
+                      {
+                        "name": "Anterodorsal thalamic nucleus (AD)",
+                        "children": []
+                      },
+                      {
+                        "name": "Anteromedial thalamic nucleus (AM)",
+                        "children": [
+                          {
+                            "name": "Ventral part (AMv)",
+                            "children": []
+                          },
+                          {
+                            "name": "Dorsal part (AMd)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Interanteromedial thalamic nucleus (IAM)",
+                        "children": []
+                      },
+                      {
+                        "name": "Interanterodorsal thalamic nucleus (IAD)",
+                        "children": []
+                      },
+                      {
+                        "name": "Lateral dorsal thalamic nucleus (LD)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Medial thalamic nuclei (MED)",
+                    "children": [
+                      {
+                        "name": "Perireuniens nucleus (PR)",
+                        "children": []
+                      },
+                      {
+                        "name": "Submedial thalamic nucleus (SMT)",
+                        "children": []
+                      },
+                      {
+                        "name": "Mediodorsal thalamic nucleus (MD)",
+                        "children": [
+                          {
+                            "name": "Medial part (MDm)",
+                            "children": []
+                          },
+                          {
+                            "name": "Central part (MDc)",
+                            "children": []
+                          },
+                          {
+                            "name": "Lateral part (MDl)",
+                            "children": []
+                          },
+                          {
+                            "name": "Intermediodorsal thalamic nucleus (IMD)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Intralaminar thalamic nuclei (ILM)",
+                    "children": [
+                      {
+                        "name": "Rhomboid nucleus (RH)",
+                        "children": []
+                      },
+                      {
+                        "name": "Central medial thalamic nucleus (CM)",
+                        "children": []
+                      },
+                      {
+                        "name": "Paracentral thalamic nucleus (PCN)",
+                        "children": []
+                      },
+                      {
+                        "name": "Central lateral thalamic nucleus (CL)",
+                        "children": []
+                      },
+                      {
+                        "name": "Parafascicular nucleus (PF)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Ventral thalamic nuclei (VENT)",
+                    "children": [
+                      {
+                        "name": "Ventral anterior-lateral thalamic complex (VAL)",
+                        "children": []
+                      },
+                      {
+                        "name": "Ventral medial thalamic nucleus (VM)",
+                        "children": []
+                      },
+                      {
+                        "name": "Ventral posterior thalamic nucleus (VP)",
+                        "children": [
+                          {
+                            "name": "Ventral posteromedial thalamic nucleus (VPM)",
+                            "children": [
+                              {
+                                "name": "Principal part (VPMpr)",
+                                "children": []
+                              },
+                              {
+                                "name": "Parvicellular part (VPMpc)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Ventral posterolateral thalamic nucleus (VPL)",
+                            "children": [
+                              {
+                                "name": "Principal part (VPLpr)",
+                                "children": []
+                              },
+                              {
+                                "name": "Parvicellular part (VPLpc)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Subparafascicular nucleus (SPF)",
+                        "children": [
+                          {
+                            "name": "Magnocellular part (SPFm)",
+                            "children": []
+                          },
+                          {
+                            "name": "Parvicellular part (SPFp)",
+                            "children": [
+                              {
+                                "name": "medial division (SPFpm)",
+                                "children": []
+                              },
+                              {
+                                "name": "lateral division (SPFpl)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Peripeduncular nucleus (PP)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lateral thalamic nuclei (LAT)",
+                    "children": [
+                      {
+                        "name": "Lateral posterior thalamic nucleus (LP)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Posterior thalamic nuclei (POT)",
+                    "children": [
+                      {
+                        "name": "Posterior thalamic complex (PO)",
+                        "children": []
+                      },
+                      {
+                        "name": "Suprageniculate nucleus (SGN)",
+                        "children": []
+                      },
+                      {
+                        "name": "Posterior limiting thalamic nucleus (POL)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Dorsal lateral geniculate nucleus (LGd)",
+                    "children": []
+                  },
+                  {
+                    "name": "Medial geniculate complex (MG)",
+                    "children": [
+                      {
+                        "name": "Medial part (MGm)",
+                        "children": []
+                      },
+                      {
+                        "name": "Ventral part (MGv)",
+                        "children": []
+                      },
+                      {
+                        "name": "Dorsal part (MGd)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Epithalamus (THe)",
+                "children": [
+                  {
+                    "name": "Habenular nuclei",
+                    "children": [
+                      {
+                        "name": "Medial habenula (MH)",
+                        "children": []
+                      },
+                      {
+                        "name": "Lateral habenula (LH)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Midbrain (MB)",
+        "children": [
+          {
+            "name": "Tegmentum (TG)",
+            "children": [
+              {
+                "name": "Oculomotor nucleus (III)",
+                "children": []
+              },
+              {
+                "name": "Trochlear nucleus (IV)",
+                "children": []
+              },
+              {
+                "name": "Medial accessory oculomotor nucleus (MAN)",
+                "children": []
+              },
+              {
+                "name": "Edinger-Westphal nucleus (EW)",
+                "children": []
+              },
+              {
+                "name": "Nucleus of Darkschewitsch (ND)",
+                "children": []
+              },
+              {
+                "name": "Interstitial nucleus (INC)",
+                "children": []
+              },
+              {
+                "name": "Medial terminal nucleus of accessory optic tract (MT)",
+                "children": []
+              },
+              {
+                "name": "Lateral terminal nucleus of accessory optic tract (LT)",
+                "children": []
+              },
+              {
+                "name": "Dorsal terminal nucleus of accessory optic tract (DT)",
+                "children": []
+              },
+              {
+                "name": "Rostral linear raphe nucleus (RL)",
+                "children": []
+              },
+              {
+                "name": "Interfascicular raphe nucleus (IF)",
+                "children": []
+              },
+              {
+                "name": "Interpeduncular nucleus (IPN)",
+                "children": [
+                  {
+                    "name": "rostral subnucleus (IPNr)",
+                    "children": []
+                  },
+                  {
+                    "name": "apical subnucleus (IPNa)",
+                    "children": []
+                  },
+                  {
+                    "name": "dorsomedial subnucleus (IPNd)",
+                    "children": []
+                  },
+                  {
+                    "name": "lateral subnucleus (IPNl)",
+                    "children": [
+                      {
+                        "name": "rostral part (IPNlr)",
+                        "children": []
+                      },
+                      {
+                        "name": "intermediate part (IPNli)",
+                        "children": []
+                      },
+                      {
+                        "name": "ventral part (IPNlv)",
+                        "children": []
+                      },
+                      {
+                        "name": "dorsal part (IPNld)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "intermediate subnucleus (IPNi)",
+                    "children": []
+                  },
+                  {
+                    "name": "central subnucleus (IPNc)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Central linear raphe nucleus (CLI)",
+                "children": []
+              },
+              {
+                "name": "Superior central raphe nucleus (CS)",
+                "children": [
+                  {
+                    "name": "medial part (CSm)",
+                    "children": []
+                  },
+                  {
+                    "name": "lateral part (CSl)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Dorsal raphe nucleus (DR)",
+                "children": []
+              },
+              {
+                "name": "Substantia nigra (SN)",
+                "children": [
+                  {
+                    "name": "Compact part (SNc)",
+                    "children": []
+                  },
+                  {
+                    "name": "Reticular part (SNr)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Ventral tegmental area (VTA)",
+                "children": []
+              },
+              {
+                "name": "Red nucleus (RN)",
+                "children": []
+              },
+              {
+                "name": "Anterior tegmental nucleus (AT)",
+                "children": []
+              },
+              {
+                "name": "Midbrain reticular nucleus (MRN)",
+                "children": [
+                  {
+                    "name": "Magnocellular part (MRNm)",
+                    "children": []
+                  },
+                  {
+                    "name": "Parvicellular part (MRNp)",
+                    "children": []
+                  },
+                  {
+                    "name": "Retrorubral area (RR)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Periaqueductal gray (PAG)",
+                "children": [
+                  {
+                    "name": "Precommissural nucleus (PRC)",
+                    "children": []
+                  },
+                  {
+                    "name": "Commissural nucleus (COM)",
+                    "children": []
+                  },
+                  {
+                    "name": "Rostromedial division (PAGrm)",
+                    "children": []
+                  },
+                  {
+                    "name": "Rostrolateral division (PAGrl)",
+                    "children": []
+                  },
+                  {
+                    "name": "Medial division (PAGm)",
+                    "children": []
+                  },
+                  {
+                    "name": "Ventromedial column (PAGvm)",
+                    "children": []
+                  },
+                  {
+                    "name": "Ventrolateral column (PAGvl)",
+                    "children": []
+                  },
+                  {
+                    "name": "Lateral column (PAGl)",
+                    "children": []
+                  },
+                  {
+                    "name": "Dorsolateral column (PAGdl)",
+                    "children": []
+                  },
+                  {
+                    "name": "Dorsomedial column (PAGdm)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Cuneiform nucleus (CUN)",
+                "children": []
+              },
+              {
+                "name": "Pretectal region (PRT)",
+                "children": [
+                  {
+                    "name": "Olivary pretectal nucleus (OP)",
+                    "children": []
+                  },
+                  {
+                    "name": "Nucleus of optic tract (NOT)",
+                    "children": []
+                  },
+                  {
+                    "name": "Posterior pretectal nucleus (PPT)",
+                    "children": []
+                  },
+                  {
+                    "name": "Nucleus of posterior commissure (NPC)",
+                    "children": []
+                  },
+                  {
+                    "name": "Anterior pretectal nucleus (APN)",
+                    "children": []
+                  },
+                  {
+                    "name": "Medial pretectal area (MPT)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Midbrain nucleus of trigeminal nerve (MEV)",
+                "children": []
+              },
+              {
+                "name": "Nucleus sagulum (SAG)",
+                "children": []
+              },
+              {
+                "name": "Parabigeminal nucleus (PBG)",
+                "children": []
+              },
+              {
+                "name": "Nucleus of brachium of inferior colliculus (NB)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Tectum (TC)",
+            "children": [
+              {
+                "name": "Superior colliculus (SC)",
+                "children": [
+                  {
+                    "name": "zonal layer (SCzo)",
+                    "children": []
+                  },
+                  {
+                    "name": "superficial gray layer (SCsg)",
+                    "children": []
+                  },
+                  {
+                    "name": "sublayer a of intermediate gray layer (SCig.a)",
+                    "children": []
+                  },
+                  {
+                    "name": "sublayer b of intermediate gray layer (SCig.b)",
+                    "children": []
+                  },
+                  {
+                    "name": "sublayer c of intermediate gray layer (SCig.c)",
+                    "children": []
+                  },
+                  {
+                    "name": "deep gray layer (SCdg)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Inferior colliculus (IC)",
+                "children": [
+                  {
+                    "name": "Central nucleus (ICc)",
+                    "children": []
+                  },
+                  {
+                    "name": "Dorsal nucleus (ICd)",
+                    "children": []
+                  },
+                  {
+                    "name": "External nucleus (ICe)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rhombic brain (RB)",
+        "children": [
+          {
+            "name": "Hindbrain (HB)",
+            "children": [
+              {
+                "name": "Pons",
+                "children": [
+                  {
+                    "name": "Abducens nucleus (VI)",
+                    "children": []
+                  },
+                  {
+                    "name": "Accessory abducens nucleus (ACVI)",
+                    "children": []
+                  },
+                  {
+                    "name": "Motor nucleus of trigeminal nerve",
+                    "children": [
+                      {
+                        "name": "Magnocellular part (Vma)",
+                        "children": []
+                      },
+                      {
+                        "name": "Parvicellular part (Vpc)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Efferent vestibular nucleus (EV)",
+                    "children": []
+                  },
+                  {
+                    "name": "Pontine nuclei, general (PONg)",
+                    "children": [
+                      {
+                        "name": "Pontine nuclei (PON)",
+                        "children": []
+                      },
+                      {
+                        "name": "Tegmental reticular nucleus (TRN)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Magnus raphe nucleus (RM)",
+                    "children": []
+                  },
+                  {
+                    "name": "Pontine raphe nucleus (RPO)",
+                    "children": []
+                  },
+                  {
+                    "name": "Pontine reticular nucleus (PRN)",
+                    "children": [
+                      {
+                        "name": "Rostral part (PRNr)",
+                        "children": []
+                      },
+                      {
+                        "name": "Caudal part (PRNc)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Pedunculopontine nucleus (PPN)",
+                    "children": []
+                  },
+                  {
+                    "name": "Supratrigeminal nucleus (SUT)",
+                    "children": []
+                  },
+                  {
+                    "name": "Ventral tegmental nucleus (VTN)",
+                    "children": []
+                  },
+                  {
+                    "name": "Pontine central gray general (PCGg)",
+                    "children": [
+                      {
+                        "name": "Pontine central gray (PCG)",
+                        "children": []
+                      },
+                      {
+                        "name": "Nucleus incertus (NI)",
+                        "children": [
+                          {
+                            "name": "compact part (NIc)",
+                            "children": []
+                          },
+                          {
+                            "name": "diffuse part (NId)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Lateral tegmental nucleus (LTN)",
+                        "children": []
+                      },
+                      {
+                        "name": "Dorsal tegmental nucleus (DTN)",
+                        "children": []
+                      },
+                      {
+                        "name": "Sublaterodorsal nucleus (SLD)",
+                        "children": []
+                      },
+                      {
+                        "name": "Laterodorsal tegmental nucleus (LDT)",
+                        "children": []
+                      },
+                      {
+                        "name": "Barrington’s nucleus",
+                        "children": []
+                      },
+                      {
+                        "name": "Subceruleus nucleus (SLC)",
+                        "children": []
+                      },
+                      {
+                        "name": "Locus ceruleus (LC)",
+                        "children": []
+                      },
+                      {
+                        "name": "Supragenual nucleus (SG)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Parabrachial nucleus (PB)",
+                    "children": [
+                      {
+                        "name": "Medial division (PBm)",
+                        "children": [
+                          {
+                            "name": "Ventral part (PBmv)",
+                            "children": []
+                          },
+                          {
+                            "name": "Medial part (PBmm)",
+                            "children": []
+                          },
+                          {
+                            "name": "External part (PBme)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Kölliker-Fuse subnucleus (KF)",
+                        "children": []
+                      },
+                      {
+                        "name": "Lateral division (PBl)",
+                        "children": [
+                          {
+                            "name": "Ventral part (PBlv)",
+                            "children": []
+                          },
+                          {
+                            "name": "Internal part (PBli)",
+                            "children": []
+                          },
+                          {
+                            "name": "Central part (PBlc)",
+                            "children": []
+                          },
+                          {
+                            "name": "External part (PBle)",
+                            "children": []
+                          },
+                          {
+                            "name": "Extreme part (PBlex)",
+                            "children": []
+                          },
+                          {
+                            "name": "Superior part (PBls)",
+                            "children": []
+                          },
+                          {
+                            "name": "Dorsal part (PBld)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Principal sensory nucleus of trigeminal nerve (PSV)",
+                    "children": []
+                  },
+                  {
+                    "name": "Nucleus of lateral lemniscus (NLL)",
+                    "children": [
+                      {
+                        "name": "ventral part (NLLv)",
+                        "children": []
+                      },
+                      {
+                        "name": "horizontal part (NLLh)",
+                        "children": []
+                      },
+                      {
+                        "name": "dorsal part (NLLd)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Superior olivary complex (SOC)",
+                    "children": [
+                      {
+                        "name": "medial part (SOCm)",
+                        "children": []
+                      },
+                      {
+                        "name": "lateral part (SOCl)",
+                        "children": []
+                      },
+                      {
+                        "name": "periolivary region (POR)",
+                        "children": []
+                      },
+                      {
+                        "name": "efferent cochlear group (ECO)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Nucleus of trapezoid body (NTB)",
+                    "children": []
+                  },
+                  {
+                    "name": "Superior vestibular nucleus (SUV)",
+                    "children": []
+                  },
+                  {
+                    "name": "Lateral vestibular nucleus (LAV)",
+                    "children": []
+                  },
+                  {
+                    "name": "Nucleus y",
+                    "children": []
+                  },
+                  {
+                    "name": "Infracerebellar nucleus (ICB)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Cerebellum (Aristotle) (CB)",
+                "children": [
+                  {
+                    "name": "Cerebellar nuclei (CBN)",
+                    "children": [
+                      {
+                        "name": "Fastigial nucleus (FN)",
+                        "children": []
+                      },
+                      {
+                        "name": "Interposed nucleus (IP)",
+                        "children": [
+                          {
+                            "name": "Principal part (IPpr)",
+                            "children": []
+                          },
+                          {
+                            "name": "Parvicellular part (IPpc)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Dentate nucleus (DN)",
+                        "children": [
+                          {
+                            "name": "Magnocellular part (DNm)",
+                            "children": []
+                          },
+                          {
+                            "name": "Parvicellular part (DNp)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Cerebellar cortex (CBX)",
+                    "children": [
+                      {
+                        "name": "Cerebellar vermis (VERM)",
+                        "children": [
+                          {
+                            "name": "Lingula or Lobule I (LING) (LI)",
+                            "children": []
+                          },
+                          {
+                            "name": "Central lobule or Lobules II,III (CENT)",
+                            "children": [
+                              {
+                                "name": "sublobule a of lobule II (CENT2a)",
+                                "children": []
+                              },
+                              {
+                                "name": "sublobule bs of lobule II (CENT2bs)",
+                                "children": []
+                              },
+                              {
+                                "name": "sublobule a of lobule III (CENT3a)",
+                                "children": []
+                              },
+                              {
+                                "name": "sublobule bs of lobule III (CENT3bs)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Culmen or Lobules IV,V (CUL)",
+                            "children": [
+                              {
+                                "name": "ventral lobule (CULv)",
+                                "children": []
+                              },
+                              {
+                                "name": "dorsal lobule (CULd)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Declive or Lobule VI (DEC) (LVI)",
+                            "children": [
+                              {
+                                "name": "sublobules a-d (DECa-d)",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Folium-tuber vermis or Lobule VII (FOTU) (LVII)",
+                            "children": []
+                          },
+                          {
+                            "name": "Pyramis or Lobule VIII (PYR) (LVIII)",
+                            "children": [
+                              {
+                                "name": "sublobules a,b",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Uvula or Lobule IX (UVU) (LIX)",
+                            "children": [
+                              {
+                                "name": "sublobules ab,c",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Nodule or Lobule X (NOD) (LX)",
+                            "children": [
+                              {
+                                "name": "sublobules a,b",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Cerebellar hemisphere (HEM)",
+                        "children": [
+                          {
+                            "name": "Simple lobule (SIM)",
+                            "children": []
+                          },
+                          {
+                            "name": "Ansiform lobule (AN)",
+                            "children": [
+                              {
+                                "name": "Ansiform lobule crus 1 (ANcr1)",
+                                "children": [
+                                  {
+                                    "name": "sublobules a-d (ANcr1a-d)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Ansiform lobule crus 2 (ANcr2)",
+                                "children": [
+                                  {
+                                    "name": "sublobules a,b",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Paramedian lobule (PRM)",
+                            "children": []
+                          },
+                          {
+                            "name": "Copula pyramidis (COPY)",
+                            "children": [
+                              {
+                                "name": "sublobules a,b",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Paraflocculus (PFL)",
+                            "children": []
+                          },
+                          {
+                            "name": "Flocculus (FL)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Afterbrain or Medulla (AFB) (MY)",
+            "children": [
+              {
+                "name": "Facial nucleus (VII)",
+                "children": []
+              },
+              {
+                "name": "Accessory facial nucleus (ACVII)",
+                "children": []
+              },
+              {
+                "name": "Hypoglossal nucleus (XII)",
+                "children": []
+              },
+              {
+                "name": "Superior salivatory nucleus (SSN)",
+                "children": []
+              },
+              {
+                "name": "Inferior salivatory nucleus (ISN)",
+                "children": []
+              },
+              {
+                "name": "Ambiguus nucleus ventral division (AMBv)",
+                "children": []
+              },
+              {
+                "name": "Ambiguus nucleus dorsal division (AMBd)",
+                "children": []
+              },
+              {
+                "name": "Dorsal motor nucleus of vagus nerve (DMX)",
+                "children": []
+              },
+              {
+                "name": "Pallidal raphe nucleus (RPA)",
+                "children": []
+              },
+              {
+                "name": "Obscurus raphe nucleus (RO)",
+                "children": []
+              },
+              {
+                "name": "Paragigantocellular reticular nucleus (PGRN)",
+                "children": [
+                  {
+                    "name": "Lateral part (PGRNl)",
+                    "children": []
+                  },
+                  {
+                    "name": "Dorsal part (PGRNd)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Magnocellular reticular nucleus (MARN)",
+                "children": []
+              },
+              {
+                "name": "Gigantocellular reticular nucleus (GRN)",
+                "children": []
+              },
+              {
+                "name": "Parvicellular reticular nucleus (PARN)",
+                "children": []
+              },
+              {
+                "name": "Parapyramidal nucleus (PPY)",
+                "children": [
+                  {
+                    "name": "deep part (PPYd)",
+                    "children": []
+                  },
+                  {
+                    "name": "superficial part (PPYs)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Medullary reticular nucleus (MDRN)",
+                "children": [
+                  {
+                    "name": "Ventral part (MDRNv)",
+                    "children": []
+                  },
+                  {
+                    "name": "Dorsal part (MDRNd)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Inferior olivary complex (IO)",
+                "children": [
+                  {
+                    "name": "Medial accessory olive (IOma)",
+                    "children": []
+                  },
+                  {
+                    "name": "Principal olive (IOpr)",
+                    "children": []
+                  },
+                  {
+                    "name": "Dorsal accessory olive (IOda)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Lateral reticular nucleus (LRN)",
+                "children": [
+                  {
+                    "name": "Magnocellular part (LRNm)",
+                    "children": []
+                  },
+                  {
+                    "name": "Parvicellular part (LRNp)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Linear medullary nucleus (LIN)",
+                "children": []
+              },
+              {
+                "name": "Paramedian reticular nucleus (PMR)",
+                "children": []
+              },
+              {
+                "name": "Parasolitary nucleus (PAS)",
+                "children": []
+              },
+              {
+                "name": "Cochlear nuclei (CN)",
+                "children": [
+                  {
+                    "name": "Ventral cochlear nucleus (VCO)",
+                    "children": [
+                      {
+                        "name": "Anterior part (VCOa)",
+                        "children": []
+                      },
+                      {
+                        "name": "Posterior part (VCOp)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Dorsal cochlear nucleus (DCO)",
+                    "children": []
+                  },
+                  {
+                    "name": "Subpeduncular granular region (CNspg)",
+                    "children": []
+                  },
+                  {
+                    "name": "Granular lamina (CNlam)",
+                    "children": []
+                  },
+                  {
+                    "name": "Interstitial nucleus of auditory nerve (IAN)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Medial vestibular nucleus (MV)",
+                "children": []
+              },
+              {
+                "name": "Spinal vestibular nucleus (SPIV)",
+                "children": []
+              },
+              {
+                "name": "Perihypoglossal nuclei (PHY)",
+                "children": [
+                  {
+                    "name": "Nucleus intercalatus (NIS)",
+                    "children": []
+                  },
+                  {
+                    "name": "Nucleus prepositus (PRP)",
+                    "children": []
+                  },
+                  {
+                    "name": "Nucleus of Roller (NR)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Interstitial nucleus of vestibular nerve (INV)",
+                "children": []
+              },
+              {
+                "name": "Nucleus x",
+                "children": []
+              },
+              {
+                "name": "Nucleus of solitary tract (NTS)",
+                "children": [
+                  {
+                    "name": "Medial part (NTSm)",
+                    "children": [
+                      {
+                        "name": "Rostral zone (NTSmr)",
+                        "children": []
+                      },
+                      {
+                        "name": "Caudal zone general (NTSmcg)",
+                        "children": [
+                          {
+                            "name": "caudal subzone (NTSmc)",
+                            "children": []
+                          },
+                          {
+                            "name": "central subzone (NTSce)",
+                            "children": []
+                          },
+                          {
+                            "name": "gelatinous subzone (NTSge)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lateral part (NTSl)",
+                    "children": []
+                  },
+                  {
+                    "name": "Commissural part (NTSco)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Area postrema (AP)",
+                "children": []
+              },
+              {
+                "name": "Dorsal column nuclei (DCN)",
+                "children": [
+                  {
+                    "name": "Gracile nucleus (GR)",
+                    "children": [
+                      {
+                        "name": "principal part (GRp)",
+                        "children": []
+                      },
+                      {
+                        "name": "median part (GRm)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Nucleus z",
+                    "children": []
+                  },
+                  {
+                    "name": "Cuneate nucleus (CU)",
+                    "children": []
+                  },
+                  {
+                    "name": "Accessory cuneate nucleus (ACU)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Paratrigeminal nucleus (PAT)",
+                "children": []
+              },
+              {
+                "name": "Spinal nucleus of trigeminal nerve (SPV)",
+                "children": [
+                  {
+                    "name": "Oral part (SPVO)",
+                    "children": [
+                      {
+                        "name": "ventrolateral part (SPVOvl)",
+                        "children": []
+                      },
+                      {
+                        "name": "rostral dorsomedial part (SPVOrdm)",
+                        "children": []
+                      },
+                      {
+                        "name": "middle dorsomedial part (SPVOmdm)",
+                        "children": [
+                          {
+                            "name": "ventral zone (SPVOmdmv)",
+                            "children": []
+                          },
+                          {
+                            "name": "dorsal zone (SPVOmdmd)",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "caudal dorsomedial part (SPVOcdm)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Interpolar part (SPVI)",
+                    "children": []
+                  },
+                  {
+                    "name": "Caudal part (SPVC)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Spinal cord (SP)",
+        "children": [
+          {
+            "name": "Ventral horn (VH)",
+            "children": [
+              {
+                "name": "Nucleus of spinal accessory nerve (XI)",
+                "children": []
+              },
+              {
+                "name": "Ventral horn proper (VHp)",
+                "children": []
+              },
+              {
+                "name": "Nucleus of bulbocavernosus (NBC)",
+                "children": []
+              },
+              {
+                "name": "Onuf’s nucleus (ON)",
+                "children": []
+              },
+              {
+                "name": "Phrenic nucleus (PN)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Intermediate spinal zone (IZ)",
+            "children": [
+              {
+                "name": "Spinal central gray (SCG)",
+                "children": []
+              },
+              {
+                "name": "Intermediomedial nucleus (IMM)",
+                "children": []
+              },
+              {
+                "name": "Dorsal commissural nucleus (DOC)",
+                "children": []
+              },
+              {
+                "name": "Intermediate spinal zone proper (IZp)",
+                "children": []
+              },
+              {
+                "name": "Intercalated spinal nucleus (ICS)",
+                "children": []
+              },
+              {
+                "name": "Central cervical nucleus (CEC)",
+                "children": []
+              },
+              {
+                "name": "Dorsal thoracic nucleus (DTH)",
+                "children": [
+                  {
+                    "name": "Rostral part (DTHr)",
+                    "children": []
+                  },
+                  {
+                    "name": "Caudal part (DTHc)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Intermediolateral nucleus (IML)",
+                "children": []
+              },
+              {
+                "name": "Thoracolumbar part (IMLtl)",
+                "children": []
+              },
+              {
+                "name": "Sacral part (IMLsa)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Dorsal horn (DH)",
+            "children": [
+              {
+                "name": "Basal nucleus of dorsal horn general (BNg)",
+                "children": [
+                  {
+                    "name": "Basal nucleus of dorsal horn (BN)",
+                    "children": []
+                  },
+                  {
+                    "name": "Lateral cervical nucleus (LCN)",
+                    "children": []
+                  },
+                  {
+                    "name": "Lateral spinal nucleus (LSN)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Nucleus proprius of spinal cord (NP)",
+                "children": []
+              },
+              {
+                "name": "Spinal reticular nucleus (SRN)",
+                "children": []
+              },
+              {
+                "name": "Gelatinous substance of spinal cord (GES)",
+                "children": []
+              },
+              {
+                "name": "Marginal zone of spinal cord (MZ)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

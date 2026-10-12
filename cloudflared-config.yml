@@ -1,0 +1,14 @@
+# Reverted to temporary tunnel workflow: hostnames are not pinned here.
+# Update the .env BACKEND_PUBLIC_URL/FRONTEND_URL with the current trycloudflare link when you start a tunnel.
+# This config intentionally does not bind a hostname.
+
+tunnel: my-atlas
+credentialsFile: C:\Users\offda\.cloudflared\8a90d981-a2e5-4d9d-bb9f-7921ad2347a9.json
+origincert: C:\Users\offda\.cloudflared\cert.pem
+
+ingress:
+  # Route /flask-api/* to Flask backend
+  - path: /flask-api/*
+    service: http://localhost:5000
+  # Route everything else to Next.js frontend
+  - service: http://localhost:3000
