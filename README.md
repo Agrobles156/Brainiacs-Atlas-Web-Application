@@ -22,17 +22,94 @@ The project brings together an interactive brain atlas, region information, rese
 
 > **Project context:** Developed as part of the University of Texas at El Paso's Software Engineering Practicum (Team 2, Fall 2025). This repository is a portfolio presentation of a collaborative project. Individual contributions are identified separately below.
 
-## Application Preview
 
-### Landing Page and Authentication
+## Application Features & Screenshots
 
-![Brainiacs Atlas landing/login screen](https://github.com/user-attachments/assets/edabc082-90e3-4e0b-832f-0c0a8f7e94e7)
+### Landing Page — Research Platform Interface
 
-### Dual-View Atlas
+Designed and developed a responsive web interface using **React, Next.js, TypeScript, and Tailwind CSS**, providing researchers with a centralized platform for exploring anatomical data and accessing scientific research tools.
 
-![Brainiacs Atlas dual-view interface](https://github.com/user-attachments/assets/a4362245-816e-4521-912b-a06734a47332)
+Integrated navigation across the interactive brain atlas, scientific literature search, personal research libraries, and collaborative features to create a cohesive user experience.
 
-> These screenshots are from the original project documentation. Additional current screenshots can be placed in `docs/screenshots/` and linked here.
+![Brainiacs Atlas Landing Page](docs/screenshots/landing-page.png)
+
+---
+
+### Interactive Brain Atlas — Anatomical Region Visualization
+
+Developed an interactive visualization interface that allows researchers to explore anatomical structures within Swanson's Rat Brain Atlas.
+
+Implemented region selection functionality that retrieves and displays associated anatomical information, including region names, abbreviations, descriptions, and scientific references, through **Flask REST API endpoints backed by MongoDB**.
+
+Integrated a dynamic information sidebar that updates based on the selected anatomical region, connecting visual interaction with structured research data.
+
+![Interactive Brain Atlas — Single View](docs/screenshots/atlas-single-view.png)
+
+---
+
+### Dual-View Brain Atlas — Comparative Anatomical Visualization
+
+Developed a dual-view visualization interface that displays **two independently interactive brain atlas views side by side**, enabling researchers to examine and compare anatomical structures within a single workspace.
+
+Integrated region selection and anatomical visualization controls across both panels, allowing users to explore different brain regions without switching between separate application pages.
+
+![Dual-View Brain Atlas](docs/screenshots/atlas-dual-view.png)
+
+---
+
+### PubMed Integration — Semantic Search & Relevance Optimization
+
+Developed a scientific literature discovery workflow integrating the **PubMed API** with information retrieval techniques to improve the relevance of research results.
+
+Incorporated **BM25 (Best Matching 25) ranking** and AI-assisted semantic retrieval to support more meaningful literature discovery beyond basic keyword matching.
+
+The example query **"stress"** demonstrates how researchers can retrieve scientific publications and explore literature relevant to their research interests.
+
+![PubMed Semantic Search Results](docs/screenshots/pubmed-search.png)
+
+---
+
+### Research Library — PubMed Paper Collection & Management
+
+Integrated scientific literature search with a personal research library, allowing users to **save publications directly from PubMed search results**.
+
+Developed application workflows connecting literature discovery with backend data management, enabling researchers to organize and retrieve saved scientific publications within their accounts.
+
+This functionality connects external research APIs, frontend interactions, and database-backed storage into a unified research workflow.
+
+![Save PubMed Paper to Library](docs/screenshots/pubmed-save-paper.png)
+
+---
+
+### Collaborative Research — Team Messaging
+
+The Brainiacs platform includes a collaborative messaging system designed to support communication between researchers working within the application.
+
+The chat interface allows users to exchange messages and communicate within the research environment, complementing the platform's anatomical visualization and literature management tools.
+
+**Team Contribution:** This functionality was primarily developed by other members of the Brainiacs software engineering team.
+
+![Brainiacs Collaborative Chat](docs/screenshots/team-chat.png)
+
+---
+
+### MongoDB Atlas — Legacy Data Migration & Database Seeding
+
+Modernized legacy anatomical research data by transforming information originally maintained in a **Microsoft Word document into structured JSONL records**, enabling programmatic processing and database integration.
+
+Developed a Python-based database seeding workflow using **PyMongo** to parse and bulk-insert anatomical region records into a cloud-hosted MongoDB Atlas database.
+
+The resulting **848 anatomical region documents** are stored in the `regions` collection, with structured fields for anatomical names, abbreviations, endnotes, and scientific references.
+
+Integrated the database with Flask REST API endpoints to support region-specific data retrieval within the interactive brain atlas.
+
+**Data Engineering Pipeline:**
+
+`Legacy Word Document → JSONL Transformation → Python Seeding Script → MongoDB Atlas → Flask REST API → Interactive Brain Atlas`
+
+![MongoDB Atlas — Anatomical Regions Collection](docs/screenshots/mongodb-regions.png)
+
+---
 
 ## Key Features
 
