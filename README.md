@@ -237,20 +237,22 @@ Open the URL printed by Next.js (typically **http://localhost:3000**).
 
 The original team deployment used hosted API and OAuth callback URLs. For a local setup, verify the frontend's API configuration and Flask routes before replacing production URLs with localhost equivalents. OAuth providers may also require matching callback URLs in their dashboards.
 
-## Video Demonstrations
 
-The original project includes walkthroughs of its main workflows:
+## Video Demonstration
 
-| Demonstration | Video |
-| --- | --- |
-| Complete Application Walkthrough | [Watch on YouTube](https://youtu.be/iJ6jixH6vHQ) |
-| Landing Page, Login & Registration | [Watch on YouTube](https://youtu.be/RCKbi008s84) |
-| Interactive Atlas | [Watch on YouTube](https://youtu.be/_0CDLhfI9Ds) |
-| Notes & Collections | [Watch on YouTube](https://youtu.be/kt2rYZDnPYM) |
-| Research Library | [Watch on YouTube](https://youtu.be/lcVTi4QJHz0) |
-| Paper Search | [Watch on YouTube](https://youtu.be/dFv1KFq0kfg) |
-| Admin Dashboard | [Watch on YouTube](https://youtu.be/PHjPU4BYS1E) |
+### Brainiacs Atlas — Full Application Walkthrough
 
+Explore Brainiacs Atlas through a comprehensive demonstration collaboratively produced by our software engineering team.
+
+The video showcases the platform's core functionality, including interactive brain atlas visualization, anatomical region exploration, research management, scientific literature search, and collaborative features.
+
+This demonstration provides an overview of the completed application and highlights the integration of its frontend, backend, database, and research-oriented functionality.
+
+[![Watch the Brainiacs Atlas Full Application Demo](https://img.youtube.com/vi/w5b5B7eDIC4/maxresdefault.jpg)](https://youtu.be/w5b5B7eDIC4)
+
+**[▶ Watch the Full Brainiacs Atlas Demonstration on YouTube](https://youtu.be/w5b5B7eDIC4)**
+
+*This demonstration was collaboratively developed and recorded by the Brainiacs software engineering team.*
 
 ## My Contributions | Full-Stack Software Developer
 
